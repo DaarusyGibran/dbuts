@@ -38,74 +38,74 @@
     },
     {
       "id": "7",
-      "nama": "Baju 1",
-      "harga": "IDR 3.000.000",
+      "nama": "Batik Motif Hewab",
+      "harga": "IDR 300.000",
       "foto": "produk7.jpg"
     },
     {
       "id": "8",
-      "nama": "Baju 2",
+      "nama": "Batik Elegan",
       "harga": "IDR 530.000",
       "foto": "produk8.jpg"
     },
     {
       "id": "9",
-      "nama": "Baju 3",
+      "nama": "Batik Kembang 4",
       "harga": "IDR 310.000",
       "foto": "produk9.jpg"
     },
     {
       "id": "10",
-      "nama": "Baju 4",
-      "harga": "IDR 700.000",
+      "nama": "Batik Kembang 5",
+      "harga": "IDR 400.000",
       "foto": "produk10.jpg"
     },
     {
       "id": "11",
-      "nama": "Baju 5",
-      "harga": "IDR 750.000",
+      "nama": "Batik Kembang 6",
+      "harga": "IDR 250.000",
       "foto": "produk11.jpg"
     },
     {
       "id": "12",
-      "nama": "Baju 6",
-      "harga": "IDR 850.000",
+      "nama": "Batik Abstrak 2",
+      "harga": "IDR 350.000",
       "foto": "produk12.jpg"
     },
     {
       "id": "13",
-      "nama": "Pewarna 1",
-      "harga": "IDR 150.000",
+      "nama": "Baju 1",
+      "harga": "IDR 3.000.000",
       "foto": "produk13.jpg"
     },
     {
       "id": "14",
-      "nama": "Pewarna 2",
-      "harga": "IDR 180.000",
+      "nama": "Baju 2",
+      "harga": "IDR 530.000",
       "foto": "produk14.jpg"
     },
     {
       "id": "15",
-      "nama": "Pewarna 3",
-      "harga": "IDR 150.000",
+      "nama": "Baju 3",
+      "harga": "IDR 310.000",
       "foto": "produk15.jpg"
     },
     {
       "id": "16",
-      "nama": "Pewarna 4",
-      "harga": "IDR 160.000",
+      "nama": "Baju 4",
+      "harga": "IDR 700.000",
       "foto": "produk16.jpg"
     },
     {
       "id": "17",
-      "nama": "Pewarna 5",
-      "harga": "IDR 150.000",
+      "nama": "Baju 5",
+      "harga": "IDR 750.000",
       "foto": "produk17.jpg"
     },
     {
       "id": "18",
-      "nama": "Pewarna 6",
-      "harga": "IDR 150.000",
+      "nama": "Baju 6",
+      "harga": "IDR 850.000",
       "foto": "produk18.jpg"
     }
   ],
@@ -145,6 +145,42 @@
       "nama": "Batik Motif Abstrak",
       "harga": "IDR 320.000",
       "foto": "produk6.jpg"
+    },
+    {
+      "id": "7",
+      "nama": "Batik Motif Hewab",
+      "harga": "IDR 300.000",
+      "foto": "produk7.jpg"
+    },
+    {
+      "id": "8",
+      "nama": "Batik Elegan",
+      "harga": "IDR 530.000",
+      "foto": "produk8.jpg"
+    },
+    {
+      "id": "9",
+      "nama": "Batik Kembang 4",
+      "harga": "IDR 310.000",
+      "foto": "produk9.jpg"
+    },
+    {
+      "id": "10",
+      "nama": "Batik Kembang 5",
+      "harga": "IDR 400.000",
+      "foto": "produk10.jpg"
+    },
+    {
+      "id": "11",
+      "nama": "Batik Kembang 6",
+      "harga": "IDR 250.000",
+      "foto": "produk11.jpg"
+    },
+    {
+      "id": "12",
+      "nama": "Batik Abstrak 2",
+      "harga": "IDR 350.000",
+      "foto": "produk12.jpg"
     }
   ],
   "baju": [
@@ -152,74 +188,36 @@
       "id": "1",
       "nama": "Baju 1",
       "harga": "IDR 3.000.000",
-      "foto": "produk7.jpg"
+      "foto": "produk13.jpg"
     },
     {
       "id": "2",
       "nama": "Baju 2",
       "harga": "IDR 530.000",
-      "foto": "produk8.jpg"
+      "foto": "produk14.jpg"
     },
     {
       "id": "3",
       "nama": "Baju 3",
       "harga": "IDR 310.000",
-      "foto": "produk9.jpg"
+      "foto": "produk15.jpg"
     },
     {
       "id": "4",
       "nama": "Baju 4",
       "harga": "IDR 700.000",
-      "foto": "produk10.jpg"
+      "foto": "produk16.jpg"
     },
     {
       "id": "5",
       "nama": "Baju 5",
       "harga": "IDR 750.000",
-      "foto": "produk11.jpg"
+      "foto": "produk17.jpg"
     },
     {
       "id": "6",
       "nama": "Baju 6",
       "harga": "IDR 850.000",
-      "foto": "produk12.jpg"
-    }
-  ],
-  "pewarna": [
-    {
-      "id": "1",
-      "nama": "Pewarna 1",
-      "harga": "IDR 150.000",
-      "foto": "produk13.jpg"
-    },
-    {
-      "id": "2",
-      "nama": "Pewarna 2",
-      "harga": "IDR 180.000",
-      "foto": "produk14.jpg"
-    },
-    {
-      "id": "3",
-      "nama": "Pewarna 3",
-      "harga": "IDR 150.000",
-      "foto": "produk15.jpg"
-    },
-    {
-      "id": "4",
-      "nama": "Pewarna 4",
-      "harga": "IDR 160.000",
-      "foto": "produk16.jpg"
-    },
-    {
-      "id": "5",
-      "nama": "Pewarna 5",
-      "harga": "IDR 150.000",
-      "foto": "produk17.jpg"
-    },
-    {
-      "id": "6",
-      "nama": "Pewarna 6",
-      "harga": "IDR 150.000",
       "foto": "produk18.jpg"
     }
   ],
